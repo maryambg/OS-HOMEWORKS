@@ -1,5 +1,4 @@
-1-To enter the Christmas party you must have the user age and parents entry letter if you are 18 years old or older if [$ 1 -gt 18] you can go to the party
-  But if you are younger you should have a letter from your parents and come back before midnight if [$ 2 = yes] Otherwise you can not go to the party
+1-this program is about To enter the Christmas party, you must have the user age and parents entry letter if you are 18 years old or older if [$ 1 -gt 18] you can go to the party But if you are younger you should have a letter from your parents and come back before midnight if [$ 2 = yes] Otherwise you can not go to the party
   
   
   
